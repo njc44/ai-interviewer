@@ -1,0 +1,1 @@
+This code uses Gemini api to take your interviews. Feel free to use it to prepare for interviewes and use it for an interactive session. You may also add a question bank of your choice within the code. Cheers!
